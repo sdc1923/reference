@@ -56,6 +56,12 @@ console.log(name, found, x);
 var a;
 console.log(a); // => undefined
 ```
+Scope:
+
+var: Function-scoped or globally scoped.
+
+let and const: Block-scoped.
+
 
 ### Strings
 
